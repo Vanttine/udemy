@@ -75,3 +75,21 @@ footer > p {
     font-size: 15px;
     align-items: center;
 }
+
+/* PUBLICIDADES */
+
+.publiimg {
+    width: 600px;
+    border: 7px solid #c5c5b2;
+    margin: 4px;
+}
+
+#ppubli {
+    padding: 5px;
+}
+
+.contact {
+    padding: 3px;
+    font-weight: 600;
+    font-size: 15px;
+}
