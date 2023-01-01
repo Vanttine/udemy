@@ -29,7 +29,7 @@ body {
 
 .nav-menu {
     display: flex;
-    text-align: left;
+    text-align: center;
     gap: 40px;
     padding: 20px;
 }
