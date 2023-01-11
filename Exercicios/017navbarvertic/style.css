@@ -46,6 +46,7 @@ ul a {
     height: 40px;
     display: block;
     background-image: url(imagens/menu.png);
+    background-color: #f7b600;
     background-repeat: no-repeat;
     background-position: right bottom left;
     color: #000;
@@ -56,8 +57,15 @@ ul a {
        
 }
 
-a:hover {
+a:hover{
     background-position: right bottom;
+    background-color: #f99200;
+    color: #fff;
+}
+
+a:focus {
+    background-position: right bottom;
+    background-color: #f99200;
     color: #fff;
 }
 
